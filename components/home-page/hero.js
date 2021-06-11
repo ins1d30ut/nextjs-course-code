@@ -13,10 +13,9 @@ function Hero() {
           height={300}
         />
       </div>
-      <h1>Hi, I'm Max</h1>
+      <h1>~ we are now ins1d30ut ~</h1>
       <p>
-        I blog about web development - especially frontend frameworks like
-        Angular or React.
+        I build on Bitcoin SV
       </p>
     </section>
   );
